@@ -23,10 +23,10 @@
         <mnuViewWinStoreApps>微軟市集應用程式</mnuViewWinStoreApps>
         <mnuViewRefresh>重新整理(&amp;R)</mnuViewRefresh>
         <mnuViewListColumnsReset>重置列</mnuViewListColumnsReset>
-        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewColorScheme>配色方案</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>符合 Windows 淺色/深色模式</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>淺色模式（預設）</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>深色模式</mnuViewColorSchemeDark>
         <mnuViewLanguage>介面語言</mnuViewLanguage>
         <mnuHelp>說明(&amp;H)</mnuHelp>
         <mnuHelpAbout>關於(&amp;A)...</mnuHelpAbout>
